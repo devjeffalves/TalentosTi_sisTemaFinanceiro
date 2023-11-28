@@ -1,2 +1,2 @@
 # financas-pessoais
-Repositório do trabalho final do curso Frontend Senac São Leopoldo
+Repositório de exemplo para o trabalho final do curso Frontend Senac São Leopoldo

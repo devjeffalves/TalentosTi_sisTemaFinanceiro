@@ -31,13 +31,13 @@ const Login = () => {
       <h2 className="login-title">Login</h2>
       <input
         type="text"
-        placeholder="Nome de Usuário"
+        placeholder="username"
         value={username}
         onChange={(e) => setUsername(e.target.value)}
       />
       <input
         type="password"
-        placeholder="Senha"
+        placeholder="password"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
